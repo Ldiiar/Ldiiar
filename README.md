@@ -10,7 +10,7 @@
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="40" />&nbsp;
+	<img align="top" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="40" />&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,12 +26,12 @@
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/nodeJs.svg" width="40" />&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" />&nbsp;
 	<b>JavaScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src=""/>&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
 	<b>TypeScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
