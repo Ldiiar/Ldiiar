@@ -47,7 +47,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/tailwind.svg"/>&nbsp;
+	<img align="top" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/>&nbsp;
 	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
