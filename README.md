@@ -26,24 +26,8 @@
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/vue.svg"/>&nbsp;
-	<b>Vue</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="./icons/vuex.svg"/>&nbsp;
-	<b>VueX</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="./icons/nuxt.svg"/>&nbsp;
-	<b>Nuxt.js</b>
-</span>
-<br/>
-<br/>
-<span>
 	<img align="top" src="./icons/nodeJs.svg"/>&nbsp;
-	<b>Node.js</b>
+	<b>JavaScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
@@ -53,13 +37,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/js.svg"/>&nbsp;
-	<b>JavaScript</b>
+	<b>Zod</b>
 </span>
 <br/>
 <br/>
 <span>
 	<img align="top" src="./icons/scss.svg"/>&nbsp;
-	<b>SASS</b>
+	<b>SASS/SCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
@@ -69,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/antDesign.svg"/>&nbsp;
-	<b>Ant Design</b>
+	<b>Shadcn UI</b>
 </span>
 <br/>
 <br/>
@@ -80,5 +64,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="./icons/gsap.svg"/>&nbsp;
-	<b>GSAP</b>
+	<b>Prisma</b>
 </span>
