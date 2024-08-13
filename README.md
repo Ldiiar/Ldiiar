@@ -47,7 +47,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" />&nbsp;
+	<img align="top" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="40" height="40"/>&nbsp;
 	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
