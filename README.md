@@ -58,11 +58,11 @@
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/git.svg"/>&nbsp;
-	<b>Git</b>
+	<img align="top" src="./icons/gsap.svg"/>&nbsp;
+	<b>Prisma</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/gsap.svg"/>&nbsp;
-	<b>Prisma</b>
+	<img align="top" src="./icons/git.svg"/>&nbsp;
+	<b>Git</b>
 </span>
