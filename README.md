@@ -10,7 +10,7 @@
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="30" />&nbsp;
+	<img align="top" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35" />&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
