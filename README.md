@@ -47,7 +47,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://www.drupal.org/files/project-images/screenshot_361.png"/>&nbsp;
+	<img align="top" src=""/>&nbsp;
 	<b>TypeScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
