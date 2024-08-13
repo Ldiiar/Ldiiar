@@ -58,7 +58,7 @@
 <br/>
 <br/>
 <span>
-	<img align="top" src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" width="30" />&nbsp;
+	<img align="top" src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" width="25" />&nbsp;
 	<b>Prisma</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
