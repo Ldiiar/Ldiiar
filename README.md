@@ -10,7 +10,7 @@
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="50" />&nbsp;
+	<img align="top" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="70" />&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
