@@ -52,17 +52,17 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" />&nbsp;
+	<img align="top" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="30" />&nbsp;
 	<b>Shadcn UI</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj" width="40" />&nbsp;
+	<img align="top" src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj" width="30" />&nbsp;
 	<b>Prisma</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" />&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="30" />&nbsp;
 	<b>Git</b>
 </span>
