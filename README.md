@@ -10,23 +10,23 @@
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="./icons/react.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" width="40" />&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/rtk.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" />&nbsp;
 	<b>RTK</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/nextJS.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="40" />&nbsp;
 	<b>Next.js</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/nodeJs.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="./icons/nodeJs.svg" width="40" />&nbsp;
 	<b>JavaScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,34 +36,34 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/js.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" width="40" />&nbsp;
 	<b>Zod</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/scss.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="40" />&nbsp;
 	<b>SASS/SCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="30"/>&nbsp;
+	<img align="top" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="40"/>&nbsp;
 	<b>TailwindCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/antDesign.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="40" />&nbsp;
 	<b>Shadcn UI</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="./icons/gsap.svg " width="40" height="40"/>&nbsp;
+	<img align="top" src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj" width="40" />&nbsp;
 	<b>Prisma</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="./icons/git.svg" width="40" height="40"/>&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="40" />&nbsp;
 	<b>Git</b>
 </span>
 
