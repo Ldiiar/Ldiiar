@@ -10,7 +10,7 @@
 ## Tech Stack ⚡️
 
 <span>
-	<img align="top" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="40" />&nbsp;
+	<img align="top" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="50" />&nbsp;
 	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +31,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40"/>&nbsp;
 	<b>TypeScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
