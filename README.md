@@ -8,15 +8,19 @@
 
 
 ## Tech Stack ⚡️
-
 <span>
-	<img align="top" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35" />&nbsp;
-	<b>React</b>
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="30" />&nbsp;
+	<b>HTML</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" />&nbsp;
-	<b>RTK</b>
+	<img align="top" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="30" />&nbsp;
+	<b>CSS</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+	<img align="top" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35" />&nbsp;
+	<b>React</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
@@ -57,6 +61,11 @@
 </span>
 <br/>
 <br/>
+<span>
+	<img align="top" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" />&nbsp;
+	<b>RTK</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
 	<img align="top" src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" width="25" />&nbsp;
 	<b>Prisma</b>
