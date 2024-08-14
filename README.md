@@ -14,7 +14,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="30" />&nbsp;
+	<img align="top" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="25" />&nbsp;
 	<b>CSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
