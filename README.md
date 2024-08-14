@@ -46,6 +46,11 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30"/>&nbsp;
+	<b>TypeScript</b>
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
 	<img align="top" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="35" />&nbsp;
 	<b>React</b>
 </span>
@@ -53,11 +58,6 @@
 <span>
 	<img align="top" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="30" />&nbsp;
 	<b>Next.js</b>
-</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30"/>&nbsp;
-	<b>TypeScript</b>
 </span>
 <br/>
 <br/>
