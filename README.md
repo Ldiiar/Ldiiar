@@ -6,23 +6,23 @@
 
 ## Tech Stack ⚡️
 <span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="30" />&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="25" />&nbsp;
 	<b>HTML</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="25" />&nbsp;
+	<img align="top" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="22" />&nbsp;
 	<b>CSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" />&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25" />&nbsp;
 	<b>JavaScript</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30" />&nbsp;
+	<img align="top" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="25" />&nbsp;
 	<b>SASS/SCSS</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,18 +32,18 @@
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="30" />&nbsp;
+	<img align="top" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="25" />&nbsp;
 	<b>Shadcn UI</b>
 </span>
 <br/>
 <br/>
 <span>
-	<img align="top" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="30" />&nbsp;
+	<img align="top" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="25" />&nbsp;
 	<b>RTK</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span>
-	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="30"/>&nbsp;
+	<img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="25"/>&nbsp;
 	<b>TypeScript</b>
 </span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
