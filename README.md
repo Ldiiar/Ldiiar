@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ldiiar
 - 👀 I’m interested in Front end dev
-- 📫 How to reach me in telegram '@Jerfil'
 
 
 ## Tech Stack ⚡️
